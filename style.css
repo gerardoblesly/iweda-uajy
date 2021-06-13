@@ -236,6 +236,12 @@
   margin-top: 200px;
 }
 
+.button-submission {
+  background-color: #00d1b2;
+  border: transparent;
+  border-radius: 50px !important;
+}
+
 /* RESPONSIVE RULES */
 /* MOBILE */
 @media all and (max-width: 480px) {
