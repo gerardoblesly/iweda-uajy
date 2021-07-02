@@ -77,6 +77,8 @@
 
 .navbar-light {
   background-color: white !important;
+  margin-top: -15px;
+  margin-bottom: -15px;
 }
 
 .active {
@@ -99,13 +101,13 @@
 
 .objectives-header {
   font-family: "RobotoCondensed-Bold";
-  font-size: 72pt;
+  font-size: 48pt;
   color: white;
 }
 
 .objectives-sub-header {
   font-family: "RobotoCondensed-LightItalic";
-  font-size: 48pt;
+  font-size: 30pt;
   color: white;
   line-height: normal;
   padding: 30px 30px;
@@ -113,7 +115,7 @@
 
 .objectives-text {
   font-family: "RobotoCondensed-Regular";
-  font-size: 30pt;
+  font-size: 24pt;
   color: white;
   line-height: normal;
   padding: 30px 80px;
@@ -127,19 +129,23 @@
 
 .topics-header {
   font-family: "RobotoCondensed-Bold";
-  font-size: 72pt;
+  font-size: 48pt;
 }
 
 .topics-text {
   font-family: "RobotoCondensed-Regular";
   color: #808080;
-  font-size: 30pt;
+  font-size: 24pt;
   line-height: normal;
   padding: 30px 80px;
 }
 
 .topics-image {
-  padding: 20px 70px;
+  padding: 20px 100px;
+}
+
+.topics-per-group{
+  width: 70%;
 }
 
 .speakers {
@@ -150,7 +156,7 @@
 
 .speakers-header {
   font-family: "RobotoCondensed-Bold";
-  font-size: 72pt;
+  font-size: 48pt;
 }
 
 .speakers-width {
@@ -164,7 +170,7 @@
 
 .timeline {
   background-color: #1e3770;
-  padding: 80px 0px;
+  padding: 5px 0px;
 }
 
 .timeline-content {
@@ -193,7 +199,7 @@
   align-items: center;
   margin: auto;
   background-color: #1e3770;
-  padding: 80px 50px;
+  padding: 50px 50px;
 }
 
 .group-text-left {
@@ -205,21 +211,21 @@
 
 .group-text {
   color: white;
-  font-size: 28pt;
+  font-size: 20pt;
 }
 
 .group-two {
   align-items: center;
   margin: auto;
   background-color: #00d1b2;
-  padding: 80px 50px;
+  padding: 50px 50px;
 }
 
 .group-three {
   align-items: center;
   margin: auto;
   background-color: #f2c312;
-  padding: 80px 50px;
+  padding: 50px 50px;
 }
 
 .topics-mobile {
